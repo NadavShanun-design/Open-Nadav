@@ -1,0 +1,27 @@
+[Open Nadav](README.md)
+
+# The definition of morality
+
+By Nadav Shanun | Published 2026-09-28 on Substack | [Original post](https://nadavshanun.substack.com/p/the-definition-of-morality)
+
+The definition of morality
+
+I think there's a big misconception in many human organizations and among humans in general: they either don't know how to define morality, good, and bad, or they define it as a straightforward list of universal values for any form of consciousness, without even defining consciousness.
+
+First of all, the words "morality," "good," and "bad" are all human-made constructs. To define a human-made construct in a scientific sense, we need to break it down into infinitely small logical axioms of truth. It has to be something that obviously has to do with humans in an anthropic sense because it's a human-made construct. It has to show the correlation between humans and existence itself, because human information or any human-made construct ultimately reflects humans' relationship to the existence around them.
+
+For adjectives like "good" and "bad," which are correlations between a single word and any other condition of existence that could have that adjective, we need to understand the correlation of the word "good" across many different senses and parts of existence. For example, connecting a good event to a good pizza requires understanding the correlation of the word "good" across many different senses and parts of existence to be able to define it or have an understanding of it.
+
+Because an adjective is that correlation between a couple of different things, we have to make sure it connects to all adjectives. If we want the absolute perfect definition, we have to make sure it connects to all adjectives that have ever happened and will ever happen, as well as all possible adjectives in existence in all of space. Taking in all that information, the connection to the rest of existence, and the full granularity and scale of all of space and the complete infinite length of time (which is all four dimensions), you'd be able to create. Take into account the absolute definition of any human-made adjective. I think the definition of any adjective is the general consensus of all humans on that specific occurrence, with enough information about it taking an infinite granularity of scale and a limit of infinite time. Now, the definition of a noun, for example, a chair: what is a chair? At the end of the day, it's also a human-made construct. Because it doesn't have to have a correlation to every other part of existence, you don't necessarily have to connect it to every possible correlation in the future, in the past, and in all of existence. You just have to stick to humans and the information and data they consume from existence to define a chair. I think the best definition for nouns would be the general consensus of all humans on a specific word with enough information about it. So that can define any noun. Adjectives can be defined by the first definition I talked about: good and bad morality, etc. I think that any form of intelligence that supersedes humans (for example, artificial intelligence or whatever superintelligence arises) could potentially lead to the death of humanity if it doesn't take these specific definitions of morality, good, and bad, or generally any human-made construct in this specific sense. These definitions are all-encompassing.
+
+All new forms of intelligence, human and non-human (AI, superintelligence, etc.), are being trained on human-generated data and artificial data from models that were trained on human-created data. The definitions these forms of intelligence will have for these words are just going to be the general consensus of the masses, which doesn't mean they're going to be true. If they're not true, they could inevitably lead to the death of humanity.
+
+For example, if most people believe that the definition of morality is some set of universal values, then there's an infinite number of scenarios where some alien species holds more of those sets of values than humans. If superintelligence gets to a level where it will have to decide between one and another, it could decide to end humanity for the sake of the other species.
+
+This is just one specific scenario for how it could kill humans, and I think these definitions have to be all encompassing instead of just the masses' opinion. Also, for context, people might think: How can I disagree with the masses' opinion about morality, good, and bad if my definition of morality is the general consensus of all humans? There are two things you're missing:
+
+1\. The definition I gave is the way to create the definition because definitions of human-made constructs are ever-changing. They're like a randomized function that changes every moment, so it's not some linear equation, especially not a stagnant one. That means what I gave is the way to come up with or create the definition, not the definition itself.
+
+2\. Part of my definition said the general consensus of all humans, with enough information, on an infinite scale and over infinite time. Most people, however, are not taking an infinite scale, infinite time, or having enough information about making these decisions.
+
+Copied from the author's own Substack post. Original and any figures: https://nadavshanun.substack.com/p/the-definition-of-morality. Typography normalized to plain ASCII.
