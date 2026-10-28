@@ -34,11 +34,11 @@ Dec 2024 to Present | Cape Canaveral, Florida
   - Developed haptic glove robotic systems with sensory feedback for astronaut VR training (Python, embedded systems, Unity, Unreal Engine).
   - Ran microgravity simulations and adapted motion capture sensors using infrared cameras, improving movement detection accuracy by 75 percent.
   - Designed a robotic haptic hand from scratch: sensor calibration, SolidWorks mechanical design, real-time data processing on ROS, M7 cores, ESP32 and Raspberry Pi in C++ and Python.
-  - Building the networking and Unreal Engine VR integration to the hardware layer.
+  - Currently building the networking and Unreal Engine VR integration to the hardware layer.
 
 ### Lucy Mission Ambassador | NASA
 
-Jun 2024 to Dec 2024
+Jun 2024 to Dec 2024 | Arizona
 
   - Represented the Lucy asteroid mission in public and academic outreach.
 
@@ -47,14 +47,14 @@ Jun 2024 to Dec 2024
 Jan 2024 to May 2024
 
   - Researched quantum entanglement and ion manipulation for secure deep space communication.
-  - Authored a research proposal on error-resistant algorithms and ion trap stability for satellite networks.
+  - Authored a NASA research proposal on error-resistant algorithms and ion trap stability for satellite networks.
 
 ### Thermal Engineer | NASA L'SPACE MCA
 
 Sep 2023 to Jan 2024
 
   - Built a proof-of-concept satellite orbiter for Pluto, working on hardware reliability and solar power systems.
-  - Used Siemens NX CAD and heat transfer analysis in an interdisciplinary team.
+  - Applied NASA mission protocols, Siemens NX CAD and heat transfer analysis inside an interdisciplinary team.
 
 ### Hardware & Firmware CTO | Weel (YC S24)
 
@@ -62,13 +62,13 @@ Mar 2025 to Aug 2025
 
   - Owned the hardware and firmware stack for a MagSafe-compatible wireless car charger with active cooling.
   - Wrote ESP32-S3 firmware driving PD sink chips, buck converters and Qi modules; debugged USB-C power delivery and thermal performance.
-  - Ran rapid CAD design iterations with Prusa MK4S printing, targeting manufacturability.
+  - Ran rapid CAD design iterations with Prusa MK4S printing and optimized slicing workflows, targeting manufacturability.
 
 ### Space Systems and AI Engineer | The Johns Hopkins University
 
 Feb 2025 to Aug 2025
 
-  - Engineered and radiation-tested satellite components and ISS hardware; built Linux-based C++ and Python anomaly detection models.
+  - Engineered and radiation-tested TOFC satellite components and ISS hardware, building Linux-based C++ and Python anomaly detection models.
   - Built GUI systems for real-time satellite camera diagnostics and internal test workflows.
   - Designed orbital mechanics simulations in MATLAB for mission planning and visualization.
 
@@ -78,9 +78,9 @@ Feb 2025 to Jul 2025 | San Francisco Bay Area
 
 ## Education
 
-### Johns Hopkins University | Physics and Computer Science
+### Johns Hopkins University | B.S. Physics and Computer Science (Double Major)
 
-Double major. Minor in Business Administration. Certificate in Engineering Leadership.
+Minor in Business Administration. Certificate in Engineering Leadership.
 
 ### The Residency | Chapter 6 (Actioners House)
 
@@ -98,7 +98,7 @@ Prefabricated walking braces and carbon nanotube pressure sensors for prosthetic
 
 ### Research Assistant, Magnetics and Devices Laboratory, 2023
 
-Helped stand up a new lab and designed magnetometer and gradiometer sensors for MEG and MRI machines. Simulated resonators and antennas in Ansys HFSS and Maxwell.
+Helped stand up a new lab and designed magnetometer and gradiometer sensors for MEG and MRI machines. Simulated resonators and antennas in Ansys HFSS and Maxwell using yttrium iron garnet.
 
 ### Research Assistant, Laboratory for Interaction of Machine and Brain, 2023
 
