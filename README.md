@@ -56,6 +56,12 @@ Sep 2023 to Jan 2024
   - Built a proof-of-concept satellite orbiter for Pluto, working on hardware reliability and solar power systems.
   - Applied NASA mission protocols, Siemens NX CAD and heat transfer analysis inside an interdisciplinary team.
 
+### Physicist | Central Intelligence Agency
+
+Apr 2025 to Oct 2025 | Washington DC-Baltimore Area
+
+  - Physics and modeling work supporting satellite systems and ground control systems. Details available as clearance permits.
+
 ### Hardware & Firmware CTO | Weel (YC S24)
 
 Mar 2025 to Aug 2025
@@ -75,6 +81,16 @@ Feb 2025 to Aug 2025
 ### AI & Data Engineer | Mercor
 
 Feb 2025 to Jul 2025 | San Francisco Bay Area
+
+### Nuclear and Electrical Physicist | United States Department of Defense
+
+Apr 2024 to Oct 2024 | Indiana
+
+  - Developed microelectronics for thermonuclear warheads and ballistic missiles, using LAMMPS and VASP to simulate survivability under nuclear radiation and the space environment.
+  - Built an AI API that generates atomic-scale simulations of electronics and captures radiation-induced bit changes.
+  - Tested microelectronics in nuclear reactors with neutron rays and modeled single event effects.
+  - Researched semiconductor epitaxy and topological insulators.
+  - Wrote the Python analysis pipeline for radiation damage data.
 
 ## Education
 
