@@ -200,6 +200,7 @@ His strategy notes for the company, answering Thiel's seven questions.
 
 ## Certifications
 
+  - Department of Defense Cyber Awareness Challenge Certificate, United States Department of War
   - Introduction and Programming with IoT Boards, POSTECH (Pohang University of Science and Technology)
   - Nanotechnology and Nanosensors, Technion
   - Freeform Electronics, Yonsei University
@@ -207,7 +208,10 @@ His strategy notes for the company, answering Thiel's seven questions.
 
 ## Test scores
 
-  - SAT Math: 800
+  - DAPAR IQ Test: Max Score (145+ IQ)
+  - SAT: 800 (Math)
+  - The National Board Exam (Bagrut) - Math: 100 (top 0.1% nationally)
+  - The National Board Exam (Bagrut) - Physics: 100 (top 0.1% nationally)
 
 ## Skills
 
