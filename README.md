@@ -23,7 +23,7 @@ Building [Chronos](https://chronos.ro) and writing about AI, entropy, morality a
 
 ### Founder & CEO | Chronos
 
-Oct 2025 to Present | San Francisco Bay Area
+Apr 2026 to Present | San Francisco Bay Area
 
   - Chronos gives companies consciousness: a personalized context layer built from a company's own data that automates human-led processes, starting with go-to-market.
 
