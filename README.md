@@ -201,7 +201,7 @@ His strategy notes for the company, answering Thiel's seven questions.
 ## Certifications
 
   - Introduction and Programming with IoT Boards, POSTECH (Pohang University of Science and Technology)
-  - Nanotechnology and Nanosensors, Technion (Technion - Israel Institute of Technology)
+  - Nanotechnology and Nanosensors, Technion
   - Freeform Electronics, Yonsei University
   - Python and Statistics for Financial Analysis, HKUST (The Hong Kong University of Science and Technology), Jan 2024
 
