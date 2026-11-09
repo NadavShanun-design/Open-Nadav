@@ -227,3 +227,7 @@ His strategy notes for the company, answering Thiel's seven questions.
 Embedded systems and firmware (ESP32, ROS, C++), Python, Unreal and Unity, CAD (SolidWorks, Siemens NX), simulation (MATLAB, COMSOL, ANSYS), applied AI, go-to-market systems.
 
 Content is the author's own. No license is granted for reuse beyond viewing and linking.
+
+## Founder community
+
+[Join the WhatsApp founder community](https://chat.whatsapp.com/I3ZRkpEHtri4R0jfYK0o19).
