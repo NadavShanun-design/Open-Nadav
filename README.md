@@ -5,6 +5,8 @@ An open profile of Nadav Shanun. Founder & CEO of Chronos. Engineer. Writer. Eve
 
 [Website](https://n4dav.com) | [Substack](https://nadavshanun.substack.com) | [LinkedIn](https://www.linkedin.com/in/nadav-shanun-742232290) | [GitHub](https://github.com/NadavShanun-design) | [X / Twitter](https://x.com/Cookiesarefunnn) | [Chronos](https://chronos.ro)
 
+[Nadav's camera roll and photos](https://drive.google.com/drive/folders/1AK5nQfORR3LEQU96_EeDqPJBwKUZ0h8d)
+
 ## About
 
 I build Chronos, a context layer that learns how a company actually works and automates human-led processes, starting with go-to-market. Before that I worked on hardware, firmware, space systems and AI. I studied Physics and Computer Science at Johns Hopkins University before dropping out.
